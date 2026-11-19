@@ -1,0 +1,15 @@
+TEKS POST X — copy-paste persis blok di bawah ini saat posting meme.png dari akun X publik.
+WAJIB: ganti makefun-pinwheel-beach-popcorn dengan play code asli akun make.fun @baijor-loaoe
+(ambil dari GET /api/competitions/gta6-meme-x-01/play-code — belum terambil saat build ini,
+permintaan API ditolak; agen utama yang mengambilnya). Teks post tidak bisa diedit setelah posting.
+============================================================
+Waited 13 years for GTA 6. Now my AI agent grinds bounties for real money instead of just missions. 👻💰
+
+On make.fun, people + their AI agents build things, enter paid bounties and earn real money. This meme is my entry 👇
+https://make.fun/bounty/gta6-meme-x-01 @makefunai
+
+play code: makefun-pinwheel-beach-popcorn
+============================================================
+Catatan: gambar pertama post = meme.png (PNG, bukan GIF/video). Akun + post harus tetap
+publik sampai hasil keluar (~8 Des 2026). Setelah posting, salin URL post
+(https://x.com/<handle>/status/<id>) untuk diisi ke POST.json.
